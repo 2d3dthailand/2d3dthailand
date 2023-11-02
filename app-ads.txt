@@ -65,3 +65,4 @@ markappmedia.site, 587286, RESELLER
 keenkale.com, 841, RESELLER
 admanmedia.com, 2063, RESELLER
 Peak226.com, 12700, RESELLER
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
